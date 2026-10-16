@@ -125,8 +125,8 @@ Accuracy and loss comparison, as reported in the project report:
 ### Installation
 
 ```bash
-git clone https://github.com/Siddhartha80/detecting-and-investigating-digital-image-forgeries.git
-cd detecting-and-investigating-digital-image-forgeries
+git clone https://github.com/Siddhartha80/Detecting-and-Investigating-Digital-Image-Forgeries.git
+cd Detecting-and-Investigating-Digital-Image-Forgeries
 
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
