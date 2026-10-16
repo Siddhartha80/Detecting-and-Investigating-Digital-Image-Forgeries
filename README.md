@@ -168,26 +168,6 @@ jupyter notebook
 
 ---
 
-## 👥 Authors
-
-| Name | Role |
-|------|------|
-| M Ramya Sree | Author |
-| [Mettu Siddhartha](https://github.com/Siddhartha80) | Author |
-| Poli Vamsi Vardhan Reddy | Author |
-| Dr. Nidhin Prabhakar T V | Faculty guide |
-| Dr. Rimjhim Padam Singh | Faculty guide |
-
-Department of Computer Science and Engineering, Amrita School of Computing, Bengaluru, **Amrita Vishwa Vidyapeetham**.
-
----
-
-## 📬 Contact
-
-**Mettu Siddhartha** · [LinkedIn](https://linkedin.com/in/siddhartha-mettu/) · [GitHub](https://github.com/Siddhartha80)
-
----
-
 ## 📚 Selected References
 
 1. Zanardelli et al., *Image forgery detection: a survey of recent deep-learning approaches*, Multimedia Tools and Applications, 2022.
